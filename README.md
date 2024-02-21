@@ -15,7 +15,7 @@ Sharing and Feedback: Once your puzzle is complete, you might want to show it of
 
 So, in simple terms, GitHub is like a digital workspace where people store, work on, and collaborate on projects, particularly computer code.
 
-#Deeper terminology dive (still somewhat easy though)
+# Deeper terminology dive (still somewhat easy though)
 
 Repositories: Think of a repository (or "repo" for short) as a folder for your project. It's where you keep all your files, like the pieces of your puzzle. Each project on GitHub typically has its own repository. Just like you might have separate folders for different types of documents on your computer (like one for photos, one for music, etc.), GitHub repositories organize different parts of your project.
 
